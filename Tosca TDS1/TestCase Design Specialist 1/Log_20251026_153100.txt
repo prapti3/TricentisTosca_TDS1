@@ -1,0 +1,81 @@
+[3] 15:31:00: Log started for 'C:\Users\prapt\OneDrive\Desktop\TDS1\Tosca TDS1\TestCase Design Specialist 1\TestCase Design Specialist 1.tws'
+[3] 15:31:00: Log level: 4
+[3] 15:31:00: Release: 16.0.0.3027
+[3] 15:31:01: Execution Approval is disabled.
+[3] 15:31:01: No service discovery configured.
+[3] 15:31:01:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 15:31:01: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 15:31:01: Searcher found 0 results in 67.9076 ms
+[3] 15:31:01:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 15:31:01:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 15:31:01:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 15:31:01:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 15:31:02:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 15:31:02:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 15:31:02:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 15:31:02:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 15:31:02: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\TDS1\Tosca TDS1\TestCase Design Specialist 1\TestCase Design Specialist 1.tws'
+[3] 15:31:07: OpenWorkspace took 00:00:10.4470126 to finish
+[2] 15:31:07: Common repository is not available
+[4] 15:31:09:  ShowStatusInfo: 'Ready'
+[3] 15:31:13: Collect took (92): 2.1017 ms
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 15:31:14:  ShowStatusInfo: 'Ready'
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'TestCase Design Specialist 1''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 15:31:14:  ShowStatusInfo: 'Ready'
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'TestCase Design Specialist 1''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:31:14:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:31:15:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 15:31:15:  ShowStatusInfo: 'Ready'
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'TestCase Design Specialist 1''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 15:31:15:  ShowStatusInfo: 'Ready'
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'TestCase Design Specialist 1''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:31:15:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:31:20:  ShowStatusInfo: 'Ready'
+[4] 15:32:13:  ShowStatusInfo: '1 object selected'
+[4] 15:32:15:  ShowStatusInfo: 'Ready'
