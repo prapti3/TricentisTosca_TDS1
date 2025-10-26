@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\TestCase Design Specialist 1.db</DatabasePathAndName>
+    <Database>D:\Tricentis Tosca\Tosca TDS1\TestCase Design Specialist 1\Repository\TestCase Design Specialist 1.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1cf321-dba9-3b58-b9da-c7ba3a1f3fce</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>30f94a2a-e696-45ac-b316-9efbee230d28</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

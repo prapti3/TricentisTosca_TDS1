@@ -1,0 +1,28 @@
+[Info] 14-10-2025 16:13:09: Auto-exclusion started
+[Info] 14-10-2025 16:13:09: 0/100 - Unused objects exclusion
+[Info] 14-10-2025 16:13:16: 50/100 - Unused objects exclusion
+[Info] 14-10-2025 16:13:16: 100/100 - Unused objects exclusion
+[Info] 14-10-2025 16:13:16: Auto-exclusion finished
+[Info] 25-10-2025 18:59:41: Auto-exclusion started
+[Info] 25-10-2025 18:59:42: 0/100 - Unused objects exclusion
+[Info] 25-10-2025 18:59:44: 50/100 - Unused objects exclusion
+[Info] 25-10-2025 18:59:44: 100/100 - Unused objects exclusion
+[Info] 25-10-2025 18:59:44: Auto-exclusion finished
+[Info] 25-10-2025 18:59:55: Compacting started
+[Info] 25-10-2025 18:59:55: 0/100 - Compacting Workspace
+[Info] 25-10-2025 18:59:56: 4001/10000 - Defragmenting Data - [Repository_DoMaintenance_TimeLeft1 s]
+[Info] 25-10-2025 18:59:57: Compacting Workspace - Defragmentation finished in 00:00:01.4180807, database size: 11673600
+[Info] 25-10-2025 18:59:57: -2147483648/-2147483648 - Recalculating index statistics
+[Info] 25-10-2025 18:59:57: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0477242, database size: 11673600
+[Info] 25-10-2025 18:59:57: Compacting finished
+[Info] 26-10-2025 00:22:33: Auto-exclusion started
+[Info] 26-10-2025 00:22:33: 0/100 - Unused objects exclusion
+[Info] 26-10-2025 00:22:34: 50/100 - Unused objects exclusion
+[Info] 26-10-2025 00:22:34: 100/100 - Unused objects exclusion
+[Info] 26-10-2025 00:22:34: Auto-exclusion finished
+[Info] 26-10-2025 00:22:45: 82/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 26-10-2025 00:22:45: Compacting started
+[Info] 26-10-2025 00:22:46: 86/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 26-10-2025 00:22:46: Compacting Workspace - Defragmentation finished in 00:00:00.8441456, database size: 12857344
+[Info] 26-10-2025 00:22:46: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0192718, database size: 12857344
+[Info] 26-10-2025 00:22:46: Compacting finished
