@@ -26,3 +26,10 @@
 [Info] 26-10-2025 00:22:46: Compacting Workspace - Defragmentation finished in 00:00:00.8441456, database size: 12857344
 [Info] 26-10-2025 00:22:46: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0192718, database size: 12857344
 [Info] 26-10-2025 00:22:46: Compacting finished
+[Info] 26-10-2025 21:06:51: Auto-exclusion started
+[Info] 26-10-2025 21:06:52: 0/100 - Unused objects exclusion
+[Info] 26-10-2025 21:06:54: 50/100 - Unused objects exclusion
+[Info] 26-10-2025 21:06:54: 100/100 - Unused objects exclusion
+[Info] 26-10-2025 21:06:54: Auto-exclusion finished
+[Info] 27-10-2025 12:34:06: Auto-exclusion started
+[Info] 27-10-2025 12:34:06: 0/100 - Unused objects exclusion
