@@ -3,7 +3,7 @@
   <WorkspaceRepository>
     <RepoClass>SQLiteRepository</RepoClass>
     <DatabasePathAndName>.\Repository\TestCase Design Specialist 1.db</DatabasePathAndName>
-    <Database>D:\Tricentis Tosca\Tosca TDS1\TestCase Design Specialist 1\Repository\TestCase Design Specialist 1.db</Database>
+    <Database>C:\Users\prapt\OneDrive\Desktop\TDS1\Tosca TDS1\TestCase Design Specialist 1\Repository\TestCase Design Specialist 1.db</Database>
     <DatabaseUser />
     <DatabasePwd />
     <DatabaseSchema />
