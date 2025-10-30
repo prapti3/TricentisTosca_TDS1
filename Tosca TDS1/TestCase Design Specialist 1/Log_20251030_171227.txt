@@ -1,0 +1,143 @@
+[3] 17:12:27: Log started for 'C:\Users\prapt\OneDrive\Desktop\TDS1\Tosca TDS1\TestCase Design Specialist 1\TestCase Design Specialist 1.tws'
+[3] 17:12:27: Log level: 4
+[3] 17:12:27: Release: 16.0.0.3027
+[3] 17:12:28: Execution Approval is disabled.
+[3] 17:12:28: No service discovery configured.
+[3] 17:12:28:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 17:12:28:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 17:12:28:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 17:12:28:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 17:12:28:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 17:12:28:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 17:12:28:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 17:12:29: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 17:12:29: Searcher found 0 results in 197.8539 ms
+[3] 17:12:29:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 17:12:29:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 17:12:29:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 17:12:29:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 17:12:29:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 17:12:29:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 17:12:29:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 17:12:29:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 17:12:29:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 17:12:29:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 17:12:29:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 17:12:29:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 17:12:29:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 17:12:29: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\TDS1\Tosca TDS1\TestCase Design Specialist 1\TestCase Design Specialist 1.tws'
+[3] 17:12:29: OpenWorkspace took 00:00:04.4265126 to finish
+[2] 17:12:29: Common repository is not available
+[4] 17:12:38:  ShowStatusInfo: 'Ready'
+[3] 17:12:42: Collect took (92): 1.0009 ms
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:12:43:  ShowStatusInfo: 'Ready'
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'TestCase Design Specialist 1''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:12:43:  ShowStatusInfo: 'Ready'
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'TestCase Design Specialist 1''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:12:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:12:43:  ShowStatusInfo: 'Ready'
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'TestCase Design Specialist 1''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:12:43:  ShowStatusInfo: 'Ready'
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'TestCase Design Specialist 1''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:12:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:12:46:  ShowStatusInfo: 'Ready'
+[4] 17:12:47:  ShowStatusInfo: '1 object selected'
+[4] 17:12:48:  ShowStatusInfo: 'Ready'
+[4] 17:12:50:  ShowStatusInfo: '1 object selected'
+[4] 17:12:51:  ShowStatusInfo: 'Ready'
+[4] 17:12:52:  ShowStatusInfo: '1 object selected'
+[4] 17:12:53:  ShowStatusInfo: 'Ready'
+[4] 17:12:55:  ShowStatusInfo: '1 object selected'
+[4] 17:12:55:  ShowStatusInfo: 'Ready'
+[4] 17:12:59:  ShowStatusInfo: '1 object selected'
+[4] 17:12:59:  ShowStatusInfo: 'Ready'
+[4] 17:13:00:  ShowStatusInfo: '1 object selected'
+[4] 17:13:00:  ShowStatusInfo: 'Ready'
+[4] 17:13:01:  ShowStatusInfo: '1 object selected'
+[4] 17:13:01:  ShowStatusInfo: 'Ready'
+[4] 17:13:06:  ShowStatusInfo: '1 object selected'
+[4] 17:13:07:  ShowStatusInfo: 'Ready'
+[4] 17:13:10:  ShowStatusInfo: '1 object selected'
+[4] 17:13:10:  ShowStatusInfo: 'Ready'
+[4] 17:13:11:  ShowStatusInfo: '1 object selected'
+[4] 17:13:11:  ShowStatusInfo: 'Ready'
+[4] 17:13:12:  ShowStatusInfo: '1 object selected'
+[4] 17:13:12:  ShowStatusInfo: 'Ready'
+[4] 17:13:15:  ShowStatusInfo: '1 object selected'
+[4] 17:13:17:  ShowStatusInfo: 'Ready'
+[4] 17:13:17:  ShowStatusInfo: '1 object selected'
+[4] 17:13:18:  ShowStatusInfo: 'Ready'
+[4] 17:13:19:  ShowStatusInfo: '1 object selected'
+[4] 17:13:24:  ShowStatusInfo: 'Ready'
+[4] 17:13:49:  ShowStatusInfo: '1 object selected'
+[4] 17:13:49:  ShowStatusInfo: 'Ready'
+[4] 17:13:51:  ShowStatusInfo: '1 object selected'
+[4] 17:13:56:  ShowStatusInfo: 'Ready'
+[4] 17:13:58:  ShowStatusInfo: '1 object selected'
+[4] 17:13:58:  ShowStatusInfo: 'Ready'
+[4] 17:13:59:  ShowStatusInfo: '1 object selected'
+[4] 17:13:59:  ShowStatusInfo: 'Ready'
+[4] 17:14:00:  ShowStatusInfo: '1 object selected'
+[4] 17:14:00:  ShowStatusInfo: 'Ready'
+[4] 17:14:23:  ShowStatusInfo: '1 object selected'
+[4] 17:14:23:  ShowStatusInfo: 'Ready'
+[4] 17:14:24:  ShowStatusInfo: '1 object selected'
+[4] 17:14:29:  ShowStatusInfo: 'Ready'
+[4] 17:14:32:  ShowStatusInfo: '1 object selected'
+[4] 17:14:32:  ShowStatusInfo: 'Ready'
+[4] 17:14:32:  ShowStatusInfo: '1 object selected'
+[4] 17:14:32:  ShowStatusInfo: 'Ready'
+[4] 17:14:34:  ShowStatusInfo: '1 object selected'
+[4] 17:14:34:  ShowStatusInfo: 'Ready'
+[4] 17:14:48:  ShowStatusInfo: '1 object selected'
+[4] 17:14:48:  ShowStatusInfo: 'Ready'
+[4] 17:14:49:  ShowStatusInfo: '1 object selected'
+[4] 17:14:49:  ShowStatusInfo: 'Ready'
+[4] 17:14:50:  ShowStatusInfo: '1 object selected'
+[4] 17:14:51:  ShowStatusInfo: 'Ready'
+[4] 17:14:51:  ShowStatusInfo: '1 object selected'
+[4] 17:14:51:  ShowStatusInfo: 'Ready'
+[4] 17:14:53:  ShowStatusInfo: '1 object selected'
+[4] 17:14:53:  ShowStatusInfo: 'Ready'
+[4] 17:14:56:  ShowStatusInfo: '1 object selected'
+[4] 17:14:56:  ShowStatusInfo: 'Ready'
+[4] 17:14:57:  ShowStatusInfo: '1 object selected'
+[4] 17:14:58:  ShowStatusInfo: 'Ready'
+[4] 17:14:58:  ShowStatusInfo: '1 object selected'
+[4] 17:14:58:  ShowStatusInfo: 'Ready'
